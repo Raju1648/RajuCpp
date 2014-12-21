@@ -2,7 +2,7 @@
 #include<stdlib.h>
 using namespace std;
 
-//BST
+//BST Program
 class BST
 {
 private:
