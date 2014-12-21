@@ -1,0 +1,1 @@
+tree.d: ../tree.cpp

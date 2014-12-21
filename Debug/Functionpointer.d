@@ -1,0 +1,1 @@
+Functionpointer.d: ../Functionpointer.cpp

@@ -1,0 +1,1 @@
+Smartpointer.d: ../Smartpointer.cpp
